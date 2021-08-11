@@ -3,7 +3,6 @@
 void ImprimiMatriz(int matriz[21][21],int tam);
 int EhTriangular(int matriz[21][21],int tam);
 int LinhaColunaZero(int matriz[21][21],int tam);
-//testando o saiv
 
 int EhTriangular(int matriz[21][21],int tam){
     int i,j,condicaoINF=0,condicaoSUP=0;
